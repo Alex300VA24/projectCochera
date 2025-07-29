@@ -1,4 +1,4 @@
-# 🚗 Sistema de Gestión - Cochera Doña Peta
+# 🚗 Reserva de Espacios para Vehículos en la cochera Doña Peta
 
 Este proyecto es un sistema de administración para una cochera moderna, llamado **Cochera Doña Peta**. Su núcleo está basado en un **modelo de base de datos diseñado desde cero**, y cuenta con una **interfaz gráfica desarrollada en Python usando Flet**, implementando una arquitectura **MVC (Modelo-Vista-Controlador)** para mantener el código organizado y escalable.
 
